@@ -2,12 +2,14 @@ using Microsoft.EntityFrameworkCore;
 
 namespace MailTest.Models
 {
-    public class ApplicationDbContext : ApplicationDbContext
+    // Representa una solicitud de envío de correo electrónico.
+    public class ApplicationDbContext : DbContext
     {
-        public ApplicationDbContext(dbConextOptions<ApplicationDbContext> options) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+            : base(options)
         {
-
         }
-        public DbSet<Destinatario> Destinatarios {get; set;}
+
+        public DbSet<Destinatario> Destinatarios { get; set; }
     }
 }

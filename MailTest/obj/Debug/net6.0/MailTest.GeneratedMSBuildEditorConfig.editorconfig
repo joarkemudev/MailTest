@@ -15,6 +15,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\GitHubUsa\MailTest\MailTest
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/GitHubUsa/MailTest/MailTest/Pages/Destinatarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVzdGluYXRhcmlvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitHubUsa/MailTest/MailTest/Pages/Destinatarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVzdGluYXRhcmlvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitHubUsa/MailTest/MailTest/Pages/Email/Send.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1haWxcU2VuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/GitHubUsa/MailTest/MailTest/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -37,10 +49,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/GitHubUsa/MailTest/MailTest/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/GitHubUsa/MailTest/MailTest/Views/Destinatarios/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRhcmlvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/GitHubUsa/MailTest/MailTest/Pages/Shared/_Layout.cshtml]

@@ -1,0 +1,8 @@
+C:\GitHubUsa\MailTest\MailTest\obj\Debug\net5.0\MailTest.csproj.AssemblyReference.cache
+C:\GitHubUsa\MailTest\MailTest\obj\Debug\net5.0\MailTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubUsa\MailTest\MailTest\obj\Debug\net5.0\MailTest.AssemblyInfoInputs.cache
+C:\GitHubUsa\MailTest\MailTest\obj\Debug\net5.0\MailTest.AssemblyInfo.cs
+C:\GitHubUsa\MailTest\MailTest\obj\Debug\net5.0\MailTest.csproj.CoreCompileInputs.cache
+C:\GitHubUsa\MailTest\MailTest\obj\Debug\net5.0\MailTest.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHubUsa\MailTest\MailTest\obj\Debug\net5.0\MailTest.RazorAssemblyInfo.cache
+C:\GitHubUsa\MailTest\MailTest\obj\Debug\net5.0\MailTest.RazorAssemblyInfo.cs

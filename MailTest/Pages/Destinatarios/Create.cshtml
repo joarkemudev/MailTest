@@ -1,0 +1,27 @@
+@page
+@model CreateModel
+@{
+    ViewData["Title"] = "Agregar Destinatario";
+}
+
+<h2>Agregar Destinatario</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Destinatario.Nombre" class="control-label"></label>
+        <input asp-for="Destinatario.Nombre" class="form-control" />
+        <span asp-validation-for="Destinatario.Nombre" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Destinatario.Correo" class="control-label"></label>
+        <input asp-for="Destinatario.Correo" class="form-control" />
+        <span asp-validation-for="Destinatario.Correo" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+
+<div>
+    <a href="./Index">Volver a la Lista</a>
+</div>

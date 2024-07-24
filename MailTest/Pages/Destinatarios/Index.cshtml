@@ -1,0 +1,25 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Destinatarios";
+}
+<h2>Destinatarios</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Correo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Destinatarios)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Correo</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="./Create" class="btn btn-primary">Agregar Destinatarios</a>
